@@ -1,0 +1,1 @@
+This project demonstrates how to use regularized logistic regression to predict whether microchips from a fabrication plant pass quality assurance (QA) tests based on their performance in two specific tests.
